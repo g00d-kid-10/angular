@@ -8,6 +8,6 @@ dist/
 *.env
 
 # IDE folders
+.angular/
 .vscode/
 .idea/
-.angular
