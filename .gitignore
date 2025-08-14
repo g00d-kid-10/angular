@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# compiled output
+dist/
+
+# environment files
+*.env
+
+# IDE folders
+.vscode/
+.idea/
+.angular
